@@ -246,10 +246,20 @@ ul.slides li img
     background-color: #a8738f;
 }
 
+.vl {
+  border-left: 1px solid #DCDCDC;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 450px;
+}
+
+
 .page-desc
 {
-    width: 925px;
-    float: right;
+    width: 100%;
+    float: center;
     font-size: 18px;
     line-height: 40px;
 }
@@ -797,11 +807,11 @@ div.pp_default .pp_loaderIcon
 .footer
 {
     margin-top: 260px;
-    padding-bottom: 170px;
+    padding-bottom: 50px;
     clear: both;
 }
 
-.footer .fa-heart
+.footer .fa-heartbeat
 {
     color: #a8738f;
     -webkit-animation: pulse 1s linear infinite;
@@ -861,7 +871,7 @@ li.right-footer-contnet
 li.right-footer-contnet a
 {
     margin-left: 20px;
-    font-size: 16px;
+    font-size: 18px;
     display: inline-block;
 }
 
