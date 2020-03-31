@@ -579,7 +579,7 @@ ul.archive-list li span
 
 .filters-button-group
 {
-    text-align: right;
+    text-align: center;
     display: block;
     margin-bottom: 50px;
 }
@@ -626,7 +626,7 @@ ul.archive-list li span
 
 .grid-item
 {
-    float: left;
+    float: center;
     font-size: 0;
     line-height: 0;
     box-sizing:border-box;
@@ -637,8 +637,8 @@ ul.archive-list li span
 #content .grid-item img
 {
     display: block;
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 300px;
     max-height: none;
     max-width: none;
 }
@@ -666,7 +666,7 @@ ul.archive-list li span
     bottom: 30px;
     right: 30px;
     z-index: 1;
-    font-size: 18px;
+    font-size: 16px;
     background-color: white;
     text-align: center;
     display: none;
