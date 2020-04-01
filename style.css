@@ -637,6 +637,7 @@ ul.archive-list li span
 #content .grid-item img
 {
     display: block;
+    padding:35px;
     width: auto;
     height: 300px;
     max-height: none;
