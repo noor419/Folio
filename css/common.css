@@ -238,9 +238,9 @@ iframe
 }
 a.button
 {
-    display: inline-block;
-    color: #FD3137;
-    border: 3px solid #FD3137;
+    display: inline-block; /** RED BUTTON**/
+    color: #a8738f;
+    border: 3px solid #a8738f;
     text-align: center;
     padding: 15px 40px;
     cursor: pointer;
@@ -256,7 +256,7 @@ a.button:active
 a.button:hover
 {
     color: white;
-    background-color: #FD3137;
+    background-color: #a8738f;
 }
 h1,h2,h3,h4,h5,h6
 {
