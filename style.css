@@ -731,7 +731,7 @@ div.pp_default .pp_loaderIcon
     font-family: 'Montserrat', sans-serif, Arial;
     width: 100%;
     line-height: 25px;
-    text-transform: uppercase;
+    text-transform: NONE;
 }
 
 .contact-form input[name="your-name"]
@@ -757,9 +757,9 @@ div.pp_default .pp_loaderIcon
     text-decoration: none;
     background: transparent;
     font-family: 'Montserrat', sans-serif, Arial;
-    font-weight: 700;
+    font-weight: 650;
     width: 100%;
-    text-transform: uppercase;
+    text-transform: NONE;
     font-size: 20px;
     transition: color .2s linear, background-color .2s linear, border-color .2s linear;
 }
@@ -773,7 +773,7 @@ div.pp_default .pp_loaderIcon
 {
     font-family: 'Montserrat', sans-serif, Arial;
     color: #191919;
-    font-weight: 700;
+    font-weight: 650;
     font-size: 20px;
     line-height: 25px;
 }
@@ -781,7 +781,7 @@ div.pp_default .pp_loaderIcon
 {
     font-family: 'Montserrat', sans-serif, Arial;
     color: #191919;
-    font-weight: 700;
+    font-weight: 650;
     font-size: 20px;
     line-height: 25px;
     opacity: 1;
@@ -790,7 +790,7 @@ div.pp_default .pp_loaderIcon
 {
     font-family: 'Montserrat', sans-serif, Arial;
     color: #191919;
-    font-weight: 700;
+    font-weight: 650;
     font-size: 20px;
     line-height: 25px;
 }
