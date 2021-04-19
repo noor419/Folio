@@ -206,14 +206,14 @@
 }
 blockquote
 {
-    border-left: 10px solid #FD3137;
-    padding-left: 60px;
+    border-left: 10px solid #fff;
+    padding-left: 85px;
     margin-top: 50px;
     margin-bottom: 50px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
-    line-height: 44px;
-    color: #b5b5b5;
+    font-size: 17px;
+    line-height: 40px;
+    color: #0000000;
 }
 blockquote.inline-blockquote
 {
